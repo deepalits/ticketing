@@ -12,7 +12,7 @@ gem 'cancancan'
 gem 'jquery-rails'
 gem 'paginate'
 gem 'pg', '>= 0.18', '< 2.0'
-gem 'puma', '~> 3.11'
+gem 'puma', '~> 5.6'
 gem 'rails', '~> 5.2.4', '>= 5.2.4.1'
 
 # Reduces boot times through caching; required in config/boot.rb
